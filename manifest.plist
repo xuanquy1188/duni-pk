@@ -2,6 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0"><dict><key>items</key><array><dict>
 <key>assets</key><array><dict><key>kind</key><string>software-package</string><key>url</key><string>https://xuanquy1188.github.io/duni-pk/DuniPK.ipa</string></dict></array>
-<key>metadata</key><dict><key>bundle-identifier</key><string>com.duni.pk</string><key>bundle-version</key><string>126.0.246</string>
+<key>metadata</key><dict><key>bundle-identifier</key><string>com.duni.pk</string><key>bundle-version</key><string>126.0.261</string>
 <key>kind</key><string>software</string><key>title</key><string>DuniPK</string></dict>
 </dict></array></dict></plist>
